@@ -5,6 +5,8 @@ from discord.ext import commands
 import json
 import requests
 
+#Prajnadeep Das
+#20-06-2021
 client = commands.Bot(command_prefix="&")
 
 
