@@ -2,4 +2,7 @@
 
 Simple discord bot that can play music and display jokes.
 
-Uses Jokes API and Discord API.
+Uses:
+* Discord API
+* Jokes API
+* youtube_dl
